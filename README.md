@@ -12,6 +12,6 @@ To start, run the command "yarn dev" on your terminal.
 
 # Chatting
 
-Open your browser and type http://localhost:3000 in two tabs of your browser and start chatting in real time.
+Open your browser and type http://localhost:300 in two tabs of your browser and start chatting in real time.
 
 
