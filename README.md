@@ -29,4 +29,6 @@ Open your browser and type [http://localhost:3000](http://localhost:3000) in two
 
 # Status Node on terminal 
 
+For each new browser connection, new socket ID is created.
+
 <img src="https://github.com/eltonlazzarin/real-time-chat/blob/master/screenshot/nodestatus.png">
