@@ -1,6 +1,6 @@
 # Real Time Chat with Nodejs and Socket.io
 
-<img src="chatting.png">
+<img src="https://github.com/eltonlazzarin/real-time-chat/blob/master/screenshot/chatting.png">
 
 # Usage
 
