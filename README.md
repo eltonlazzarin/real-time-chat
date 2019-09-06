@@ -1,17 +1,32 @@
 # Real Time Chat with Nodejs and Socket.io
 
+<img src="chatting.png">
+
 # Usage
 
-Install all dependencies needed such as ejs, express socket.io and nodemon as well devDependency via "yarn add".
+After cloning this project to your computer install all dependencies needed such as ejs, express, socket.io and nodemon as well devDependency typing in your terminal like below.
+
+```sh
+$ cd real-time-chat
+$ npm i
+```
 
 
-# Start the project
+# Starting the project
 
-To start, run the command "yarn dev" on your terminal.
+To start, run the following command on your terminal.
+
+```sh
+$ npm run dev
+```
 
 
 # Chatting
 
-Open your browser and type http://localhost:3000 in two tabs of your browser and start chatting in real time.
+Open your browser and type [http://localhost:3000](http://localhost:3000) in two tabs (or more) of your browser and start chatting in real time.
 
 
+
+# Status Node on terminal 
+
+<img src="nodestatus.png">
