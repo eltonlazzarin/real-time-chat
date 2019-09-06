@@ -21,9 +21,9 @@ $ npm run dev
 
 # Chatting
 
-<img src="https://github.com/eltonlazzarin/real-time-chat/blob/master/screenshot/chatting.png">
-
 Open your browser and type [http://localhost:3000](http://localhost:3000) in two tabs (or more) of your browser and start chatting in real time.
+
+<img src="https://github.com/eltonlazzarin/real-time-chat/blob/master/screenshot/chatting.png">
 
 
 
