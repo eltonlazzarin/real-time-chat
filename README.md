@@ -4,7 +4,7 @@
 
 # Usage
 
-After cloning this project to your computer install all dependencies needed such as ejs, express, socket.io and nodemon as well devDependency typing in your terminal like below.
+After cloning this project to your computer, install all dependencies needed such as ejs, express, socket.io and nodemon as well devDependency typing in your terminal like below.
 
 ```sh
 $ cd real-time-chat
