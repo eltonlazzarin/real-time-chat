@@ -1,4 +1,4 @@
-# Real Time Chat with Nodejs and Socket.i
+# Real Time Chat with Nodejs and Socket.io
 
 # Usage
 
